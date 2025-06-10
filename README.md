@@ -33,8 +33,7 @@ In this project, I used Python to practice and understand:
 
 ## 📷 Screenshot Preview *(optional)*
 
-> `![Colab Preview](./colab-screenshot.png)`  
-> *(You can add a screenshot of your Colab notebook here)*
+![image](https://github.com/user-attachments/assets/6574b51a-5dfe-49c7-9994-a5726d028ea2)
 
 ## 📬 Contact
 
