@@ -39,9 +39,10 @@ In this project, I used Python to practice and understand:
 
 ## 📬 Contact
 
-Let’s connect!  
-[LinkedIn](www.linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+Let’s connect or collaborate:  
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
 
 ---
 **Created by:** *Danny O'Keefe*  
+**Date:** May 2025eefe*  
 **Date:** June 2025
