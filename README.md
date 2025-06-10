@@ -44,5 +44,4 @@ Let’s connect or collaborate:
 
 ---
 **Created by:** *Danny O'Keefe*  
-**Date:** May 2025eefe*  
-**Date:** June 2025
+**Date:** May 2025*  
