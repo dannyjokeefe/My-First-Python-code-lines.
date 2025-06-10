@@ -40,7 +40,7 @@ In this project, I used Python to practice and understand:
 ## 📬 Contact
 
 Let’s connect or collaborate:  
-[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyjokeefe)
 
 ---
 **Created by:** *Danny O'Keefe*  
