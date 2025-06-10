@@ -31,9 +31,11 @@ In this project, I used Python to practice and understand:
 2. Step through each code block to follow the learning journey
 3. Modify and experiment with the code to deepen your understanding
 
-## 📷 Screenshot Preview *(optional)*
-
+## 📷 Screenshot Preview
 ![image](https://github.com/user-attachments/assets/6574b51a-5dfe-49c7-9994-a5726d028ea2)
+
+![image](https://github.com/user-attachments/assets/22decdea-2839-480a-8121-f5753c3593c5)
+
 
 ## 📬 Contact
 
